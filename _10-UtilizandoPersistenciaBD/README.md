@@ -1,5 +1,5 @@
 #Hello!
 
-#Salvando modificaçoes no git
+#Salvando alteraçoes no git
 
 
